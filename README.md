@@ -30,3 +30,5 @@ https://nancykiplimoanalyst.github.io/Interactive-Weather-app/
 2) Unzip the folder  
 3) Open `index.html` in your web browser  
 *(No setup or installs required.)*
+
+© 2025 Nancy Kiplimo
